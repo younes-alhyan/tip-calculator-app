@@ -37,7 +37,7 @@ main {
 }
 .container {
   width: 800px;
-  background-color: var(--Very-light-grayish-cyan);
+  background-color: var(--White);
   border-radius: 15px;
   display: flex;
   gap: 25px;
@@ -52,7 +52,7 @@ main {
   font-weight: 600;
 }
 .input-container {
-  background-color: var(--Light-grayish-cyan);
+  background-color: var(--Very-light-grayish-cyan);
   display: flex;
   align-items: center;
   padding: 5px 10px;
@@ -119,7 +119,7 @@ input[type="radio"] {
   color: var(--Very-dark-cyan);
 }
 .custom-tip {
-  background-color: var(--Light-grayish-cyan);
+  background-color: var(--Very-light-grayish-cyan);
   color: var(--Dark-grayish-cyan);
   border-radius: 5px;
   text-align: center;
@@ -207,10 +207,12 @@ input[type="radio"] {
   border-radius: 5px;
   cursor: pointer;
   color: var(--Very-dark-cyan);
-  background-color: #0d686d;
+  background-color: var(--Strong-cyan);
+  opacity: 0.5;
 }
 .reset.active {
   background-color: var(--Strong-cyan);
+  opacity: 1;
 }
 .reset.active:hover {
   background-color: var(--Light-grayish-cyan);
