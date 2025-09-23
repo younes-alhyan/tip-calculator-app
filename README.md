@@ -1,4 +1,4 @@
-# 📁 Tip Calculator App
+# 📂 Tip Calculator App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1625752957/Challenges/hxkpctp6cd1meeytfdl2.jpg)
 
